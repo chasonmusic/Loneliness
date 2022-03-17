@@ -57,7 +57,7 @@ const textNodes = [
   },
   {
     id: 2,
-    text: 'You venture forth in search of answers. You come across a fairy trying to take your Loneliness away',
+    text: 'You venture forth in search of answers. You come across a fairy wanting to trade',
     options: [
       {
         text: 'Trade Loneliness for a sword',
